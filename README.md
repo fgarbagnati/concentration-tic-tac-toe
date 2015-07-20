@@ -1,20 +1,8 @@
 # ConcentrationTicTacToe
 
-TODO: Write a gem description
+**UNDER CONSTRUCTION, BUT LOOK FORWARD TO THIS...**
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'concentration_tic_tac_toe'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install concentration_tic_tac_toe
+Console tic-tac-toe game with a twist -- you don't see the board until the game is over. Remember where you're placing your pieces, as well as where your opponent places theirs!
 
 ## Usage
 
