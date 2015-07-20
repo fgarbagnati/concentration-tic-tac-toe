@@ -1,1 +1,1 @@
-require "../lib/concentration_tic_tac_toe.rb"
+require_relative "../lib/concentration_tic_tac_toe.rb"
